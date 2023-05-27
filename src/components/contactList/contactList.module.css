@@ -1,0 +1,24 @@
+.list__user li {
+    display: flex;
+    text-align: start;
+    margin: 5px;
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.list__user {
+    padding: 10px;
+}
+
+.list__user ul {
+    padding: 0;
+}
+
+
+.delete {
+    margin: 0 10px;
+    padding: 0.2em;
+    align-items: end;
+}
+
